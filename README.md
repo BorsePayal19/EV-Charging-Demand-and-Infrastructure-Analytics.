@@ -1,6 +1,6 @@
 # EV Charging Demand & Infrastructure Analytics
 ### EV Adoption + Charging Infrastructure
-
+---
 
 ## 📌 Project Overview
 
@@ -27,6 +27,7 @@ This project uses Python, SQL, Excel, and Power BI to transform raw charging dat
 
 ## 📂 Project Structure
 
+```text
 EV-Charging-Demand-and-Infrastructure-Analytics/
 │
 ├── Data/
@@ -109,4 +110,5 @@ This project was collaboratively developed by two team members.
 This project provides insights into EV charging patterns and helps understand charging demand, energy usage, cost behaviour, and user preferences through data analytics.
 
 It demonstrates how data-driven analysis can support better planning and development of EV charging infrastructure.
+
 
