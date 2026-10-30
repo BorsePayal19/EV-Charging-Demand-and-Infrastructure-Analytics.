@@ -81,7 +81,7 @@ This project was collaboratively developed by two team members.
 - Analyzing charging sessions, energy consumption, and user behaviour.
 - Extracting meaningful insights from the dataset.
 
-### Member 2: Devashish Johriya
+### Member 2: Devashish Johareya
 **Role: Python & Data Analysis**
 
 - Understanding and exploring the EV charging dataset.
