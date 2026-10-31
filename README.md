@@ -35,33 +35,18 @@ This project uses data analytics tools to identify meaningful insights and under
 
 ## **📊 POWER BI DASHBOARD SCREENSHOTS**
 
-### **1. EV CHARGING OVERVIEW**
+## **1. EV Charging Overview**
 
-Overall view of EV charging activities, charging demand, charger types, and KPIs.
+![EV Charging Overview](Screenshots/overview-ev.png)
 
-<p align="center">
-  <img src="Overview%20EV.png" width="100%" alt="EV Charging Overview">
-</p>
+## **2. Charging Behavior Analysis**
 
----
-
-### **2. CHARGING BEHAVIOR ANALYSIS**
-
-Analysis of charging demand by day of the week and user charging patterns.
-
-<p align="center">
-  <img src="Charging%20Behaviour%20EV.png" width="100%" alt="Charging Behavior Analysis">
-</p>
-
----
-
-### **3. COST & ENERGY ANALYSIS**
-
-Analysis of energy consumption, charging costs, and energy usage patterns.
+![Charging Behavior Analysis](Screenshots/charging-behavior-ev.png)
 
 ## **3. Cost & Energy Analysis**
 
 ![Cost and Energy Analysis](Screenshots/cost-energy-ev.png)
+
 
 ---
 
