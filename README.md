@@ -33,20 +33,17 @@ This project uses data analytics tools to identify meaningful insights and under
 
 📊 DASHBOARD OVERVIEW
 
-## **📊 POWER BI DASHBOARD SCREENSHOTS**
+### **1. EV Charging Overview**
 
-## **1. EV Charging Overview**
+![EV Charging Overview](./Overview%20EV.png)
 
-![EV Charging Overview](Screenshots/overview-ev.png)
+### **2. Charging Behavior Analysis**
 
-## **2. Charging Behavior Analysis**
+![Charging Behavior Analysis](./Charging%20Behaviour%20EV.png)
 
-![Charging Behavior Analysis](Screenshots/charging-behavior-ev.png)
+### **3. Cost & Energy Analysis**
 
-## **3. Cost & Energy Analysis**
-
-![Cost and Energy Analysis](Screenshots/cost-energy-ev.png)
-
+![Cost and Energy Analysis](./Cost%20%26%20Energy%20EV.png)
 
 ---
 
