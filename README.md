@@ -59,10 +59,9 @@ Analysis of charging demand by day of the week and user charging patterns.
 
 Analysis of energy consumption, charging costs, and energy usage patterns.
 
-<p align="center">
-  <img src="Cost%20Energy%20EV.png" width="100%" alt="Cost and Energy Analysis">
-</p>
+## **3. Cost & Energy Analysis**
 
+![Cost and Energy Analysis](Screenshots/cost-energy-ev.png)
 
 ---
 
