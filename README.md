@@ -1,157 +1,145 @@
-⚡ EV CHARGING DEMAND & INFRASTRUCTURE ANALYTICS
+⚡ EV Charging Demand & Infrastructure Analytics
 
-EV Adoption | Charging Behaviour | Energy Consumption | Infrastructure Planning
+EV Adoption | Charging Infrastructure | Data Analytics
 
 ---
 
 📌 PROJECT OVERVIEW
 
-The EV Charging Demand & Infrastructure Analytics project focuses on analyzing Electric Vehicle (EV) charging patterns, energy consumption, charging costs, and user behaviour.
+The EV Charging Demand & Infrastructure Analytics project focuses on analyzing electric vehicle charging patterns, energy consumption, charging costs, and infrastructure demand.
 
-The objective is to understand EV charging demand and identify meaningful patterns that can support better EV charging infrastructure planning.
-
-This project uses Python, SQL, Microsoft Excel, and Power BI to transform raw charging data into meaningful business insights through data analysis and interactive visualizations.
+This project uses data analytics tools to identify meaningful insights and understand EV charging behavior through interactive Power BI dashboards.
 
 ---
 
 🎯 PROJECT OBJECTIVES
 
 - Analyze EV charging demand and usage patterns.
-- Understand charging behaviour across different days and times.
+- Understand charging behavior across different user types.
 - Analyze energy consumption and charging costs.
-- Compare charging station and user types.
-- Identify trends and insights to support better EV infrastructure planning.
+- Identify peak charging hours and demand trends.
+- Develop interactive dashboards for better visualization.
 
 ---
 
 🛠️ TOOLS & TECHNOLOGIES
 
-Technology| Purpose
-Python| Data Cleaning, Preprocessing & Exploratory Data Analysis
-SQL (MySQL)| Data Querying & Business Analysis
-Microsoft Excel| Data Cleaning & Preparation
-Power BI| Interactive Dashboard & Data Visualization
+- Python – Data Analysis and Preprocessing
+- MySQL – Data Querying and Analysis
+- Microsoft Excel – Data Cleaning and Preparation
+- Power BI – Data Visualization and Interactive Dashboards
 
 ---
 
-📊 POWER BI DASHBOARD SCREENSHOTS
+📊 DASHBOARD OVERVIEW
 
-The Power BI dashboard consists of three interactive pages covering different aspects of EV charging analytics.
+## **📊 POWER BI DASHBOARD SCREENSHOTS**
 
-1. EV CHARGING OVERVIEW
+### **1. EV CHARGING OVERVIEW**
 
-Provides an overall view of EV charging activities, charging demand, charger types, and key performance indicators.
+Overall view of EV charging activities, charging demand, charger types, and KPIs.
 
-"EV Charging Overview" (Overview%20EV.png)
-
----
-
-2. CHARGING BEHAVIOR ANALYSIS
-
-Analyzes charging behaviour, demand by day of the week, and user charging patterns.
-
-"Charging Behavior Analysis" (Charging%20Behaviour%20EV.png)
+<p align="center">
+  <img src="Overview%20EV.png" width="100%" alt="EV Charging Overview">
+</p>
 
 ---
 
-3. COST & ENERGY ANALYSIS
+### **2. CHARGING BEHAVIOR ANALYSIS**
 
-Provides insights into energy consumption, charging costs, and energy usage patterns.
+Analysis of charging demand by day of the week and user charging patterns.
 
-"Cost & Energy Analysis" (Cost%20Energy%20EV.png)
+<p align="center">
+  <img src="Charging%20Behaviour%20EV.png" width="100%" alt="Charging Behavior Analysis">
+</p>
 
 ---
 
-📂 PROJECT STRUCTURE
+### **3. COST & ENERGY ANALYSIS**
 
-EV-Charging-Demand-and-Infrastructure-Analytics/
+Analysis of energy consumption, charging costs, and energy usage patterns.
+
+<p align="center">
+  <img src="Cost%20Energy%20EV.png" width="100%" alt="Cost and Energy Analysis">
+</p>
+
+
+---
+
+💡 KEY INSIGHTS
+
+- Identified EV charging demand patterns across different time periods.
+- Analyzed charging behavior among different user types.
+- Explored energy consumption trends.
+- Evaluated charging cost distribution.
+- Identified opportunities for improved charging infrastructure planning.
+
+---
+
+📁 PROJECT STRUCTURE
+
+EV-Charging-Demand-Analytics/
 │
-├── Data/
-│   └── Cleaned_Data/
-│       └── ev_charging_patterns.csv
-│
-├── Python/
-│   └── EV_Charging.ipynb
-│
+├── README.md
+├── Dataset/
 ├── SQL/
-│   └── EV_Charging_Analysis.sql
-│
 ├── PowerBI/
-│   └── EV_Charging_Dashboard.pbix
-│
-├── Overview EV.png
-├── Charging Behaviour EV.png
-├── Cost Energy EV.png
-│
-└── README.md
+└── Screenshots/
+    ├── overview-ev.png
+    ├── charging-behavior-ev.png
+    └── cost-energy-ev.png
 
 ---
 
-👥 TEAM MEMBERS & CONTRIBUTIONS
+🚀 PROJECT OUTCOME
 
-This project was collaboratively developed by two team members.
+Developed a three-page interactive Power BI dashboard to analyze EV charging demand, user behavior, energy consumption, and charging costs.
 
-👩‍💻 MEMBER 1: PAYAL BORSE
+This project demonstrates practical skills in Data Analysis, SQL, Power BI, and Business Intelligence.
+
+---
+
+👩‍💻 PROJECT CONTRIBUTION
+
+Project Contributors: Payal Borse & Johareya
+Member 1: Payal Borse
 
 Role: SQL & Database Analysis
 
-- Database setup and data management using MySQL.
-- Writing SQL queries to analyze EV charging data.
-- Performing business analysis using SQL.
-- Analyzing charging sessions, energy consumption, and user behaviour.
-- Extracting meaningful insights from the dataset.
+Database setup and data management using MySQL.
 
-👨‍💻 MEMBER 2: DEVASHISH JOHAREYA
+Writing SQL queries to analyze EV charging data.
+
+Performing business analysis using SQL.
+
+Analyzing charging sessions, energy consumption, and user behaviour.
+
+Extracting meaningful insights from the dataset.
+
+Member 2: Devashish Johareya
 
 Role: Python & Data Analysis
 
-- Understanding and exploring the EV charging dataset.
-- Data cleaning and preprocessing using Python.
-- Performing Exploratory Data Analysis (EDA).
-- Analyzing EV charging demand and usage patterns.
-- Creating visualizations and identifying meaningful trends.
+Understanding and exploring the EV charging dataset.
 
-🤝 COLLABORATIVE RESPONSIBILITIES
+Data cleaning and preprocessing using Python.
 
-- Designing and developing interactive Power BI dashboards.
-- Creating data visualizations and KPI reports.
-- Interpreting business insights and presenting findings.
-- Project documentation and GitHub repository management.
+Performing Exploratory Data Analysis (EDA).
 
----
+Analyzing EV charging demand and usage patterns.
 
-💡 KEY OUTCOMES
+Creating visualizations and identifying meaningful trends.
 
-- Analyzed EV charging demand and user behaviour.
-- Explored energy consumption and charging costs.
-- Identified charging trends using SQL and Python.
-- Developed an interactive three-page Power BI dashboard.
-- Generated insights to understand EV charging infrastructure requirements.
+🤝 Collaborative Responsibilities
+
+Designing and developing interactive Power BI dashboards.
+
+Creating data visualizations and KPI reports.
+
+Interpreting business insights and presenting findings.
+
+Project documentation and GitHub repository management.
 
 ---
 
-📁 PROJECT DELIVERABLES
-
-- Python Jupyter Notebook (".ipynb")
-- SQL Analysis Scripts (".sql")
-- Cleaned Dataset (".csv")
-- Interactive Power BI Dashboard (".pbix")
-- Three Power BI Dashboard Screenshots (".png")
-
----
-
-📝 CONCLUSION
-
-This project demonstrates how data analytics can help understand EV charging demand, energy consumption, charging costs, and user preferences.
-
-By combining Python, SQL, Excel, and Power BI, the project transforms raw charging data into meaningful insights that can support better planning and development of EV charging infrastructure.
-
----
-
-PROJECT DOMAIN
-
-Electric Vehicles | Data Analytics | Business Intelligence
-
-DEVELOPED BY
-
-Payal Borse & Devashish Johareya
+⭐ If you find this project useful, don't forget to star the repository!
