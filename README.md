@@ -30,7 +30,25 @@ Power BI| Interactive Dashboard & Data Visualization
 
 ---
 
-📊 Power BI Dashboard Screenshots
+## 📊 Power BI Dashboard Screenshots
+
+### 1. EV Charging Overview
+
+![EV Charging Overview](Overview%20EV.png)
+
+---
+
+### 2. Charging Behavior Analysis
+
+![Charging Behavior Analysis](Charging%20Behaviour%20EV.png)
+
+---
+
+### 3. Cost & Energy Analysis
+
+![Cost and Energy Analysis](Cost%20Energy%20EV.png)
+
+---
 
 The Power BI dashboard consists of three pages covering different aspects of EV charging analytics.
 
